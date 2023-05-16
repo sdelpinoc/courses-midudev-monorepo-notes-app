@@ -1,0 +1,11 @@
+.form {
+    margin: 10px 0 10px;
+}
+
+.error {
+    color: red;
+}
+
+.important {
+    color: green
+}

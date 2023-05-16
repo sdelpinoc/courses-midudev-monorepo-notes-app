@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1683660439705" clover="3.2.0">
+  <project timestamp="1683660439705" name="All files">
+    <metrics statements="12" coveredstatements="11" conditionals="9" coveredconditionals="6" methods="4" coveredmethods="3" elements="25" coveredelements="20" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
+    <file name="Note.jsx" path="/home/sdelpinoc/programing/sdelpinoc/courses/midudev/04-bootcamp-fullstack/04-react-app-notes/src/components/Note.jsx">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="8" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="12" count="2" type="stmt"/>
+    </file>
+    <file name="Togglable.jsx" path="/home/sdelpinoc/programing/sdelpinoc/courses/midudev/04-bootcamp-fullstack/04-react-app-notes/src/components/Togglable.jsx">
+      <metrics statements="8" coveredstatements="7" conditionals="5" coveredconditionals="4" methods="3" coveredmethods="2"/>
+      <line num="5" count="1" type="cond" truecount="0" falsecount="1"/>
+      <line num="6" count="6" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="10" count="6" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
